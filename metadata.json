@@ -1,0 +1,6 @@
+{
+  "name": "Master Coding",
+  "description": "A modern, professional learning platform for HTML, CSS, Tailwind, and JavaScript, featuring Monaco-powered playgrounds, practice challenges, timed exams, and certification achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
